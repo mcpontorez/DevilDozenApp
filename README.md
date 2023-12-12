@@ -16,7 +16,7 @@
 ## Решение
 [Не до конца причёсано и лежит тут](https://github.com/mcpontorez/DevilDozenApp/blob/master/DevilDozenApp/Program.cs)
 
-## Получилось такое число: `9203637295151`
+## Получилось число: `9203637295151`
 ![image](https://github.com/mcpontorez/DevilDozenApp/assets/31940612/08c1192b-067e-4a07-bbe8-3630807c5d7a)
 
 # Подвох задачи
