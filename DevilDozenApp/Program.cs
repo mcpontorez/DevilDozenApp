@@ -101,6 +101,7 @@ namespace DevilDozenApp
 
             //Console.WriteLine(halfSumCountPairs.SequenceEqual(halfSumCountPairsCool));
 
+            //Выведется: 9203637295151
             Console.WriteLine(beautifulNumberCount);
             Console.Read();
         }
